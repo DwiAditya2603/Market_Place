@@ -8,9 +8,9 @@ steps:
       [
         'run',
         'deploy',
-        'stepup-frontend',
+        'adittcc',
         '--image',
-        'gcr.io/$PROJECT_ID/stepup-frontend',
+        'gcr.io/$PROJECT_ID/adittcc',
         '--region',
         'asia-southeast2',
         '--platform',
